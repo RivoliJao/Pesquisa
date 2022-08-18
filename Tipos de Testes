@@ -1,0 +1,6 @@
+Teste Funcional: testa requisitos funcionais, as funções e os casos de uso;
+Teste Regressivo: objetivo tester o funcionamento que ja funcinavam anteriormente, após as atualizações do software;
+Teste Exploratório: objetivo é buscar novas falhas apartir do conhecimento do proprio testador, então exige experiência maior do testador;
+Teste de segurança: avalia se o sistema e os dados são acessados de maneira segura e apenas pelo autor das ações, o objetivo é claro previnir algum fraudador coleta dados;
+Teste de performance: analisar a performance de um sistema;
+

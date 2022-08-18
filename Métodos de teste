@@ -1,0 +1,3 @@
+pairwise: testar o sfotware sem usar 100% de todas as possibilidades de variações existentes
+diagrama de Ishikawa: tem como obetivos mostrar as relações entre "efeito" e consequentes "causas";
+classe de equivalência: analisar os testes de caixa preta e tentar reduzir o número total de testes possíveis para um conjunto mínimo de testes que revelarão o número máximo de erros possível;
