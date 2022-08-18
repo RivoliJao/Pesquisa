@@ -1,0 +1,4 @@
+Unitário: testa funcionamento da unidade mais pequena do codigo de aplicação,deixando de lado a sua interação com outras partes do codigo; 
+Sistema: produz informações que são utilizadas pelos stakeholders para tomar certas decisões, também para comprir requisitos ou obrigações normativas e regulamentares;
+Integração: é a função de testar os módulos do software integralmente , assim integrando para uma forma única de unidade;
+Aceitação: objetivo de executar o sistema sob o ponto de vista do usuário final, sendo assim o cliente;

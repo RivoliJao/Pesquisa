@@ -1,0 +1,8 @@
+Conceito: modo de avaliar a qualidade e a perfomance do software, assim reduzindo os risco de haver falhas de operação;  
+Caso: São condições que são necessarias para o desenrolar dos teste do software, como o auxilio de uma ferramenta para consertar algo; 
+Defeito: esta ligado a construção do software , então é um defeito do produto em si; 
+Falha: esta ligado na parte de hardware , como requisitos míninos para usabilidade do software ou até mesmo queda de energia;
+Teste Estatico: é o analisar toda a programação do software buscando codigos escritos de forma errados; 
+Teste Dinâmico: é o conjunto de todos os teste do software , assim sendo bem tradicional de executar o sistema conferir a entrada , o desenvolver e a saida de todo o sistema; 
+Critério de aceitatção: são critérios que precisam existir para ajudar seus usuários a usufruir o software, tais como acessibilidade,facilidade de uso, segurança e privacidade, velocidade, confiabilidade etec...; 
+Artefatos de Teste: é o conjunto de entradas de testes, para analisar as condições de execução e resuldados esperados, são subprodutos gerados após a exucução do software; 
